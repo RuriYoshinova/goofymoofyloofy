@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "goofymoofyloofy",
         "author": "Ruri and Meri",
-        "updater": "https://raw.githubusercontent.com/Ruri-Y/goofymoofyloofy/master/xp.json?token=GHSAT0AAAAAAB7T6AJ26DLPPNBWHJGEWSX2ZAVYNEA"
+        "updater": "https://raw.githubusercontent.com/Ruri-Y/goofymoofyloofy/master/xp.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/1015631461820420257\/1086627453600026644\/20230318_202922.jpg"
