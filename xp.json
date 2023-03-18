@@ -1,0 +1,31 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "goofymoofyloofy",
+        "author": "Ruri and Meri",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1015631461820420257\/1086627453600026644\/20230318_202922.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 1056964608,
+        "accent": -14188314,
+        "active_channel": -2144894746,
+        "mention_highlight": 606568678
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -14188314,
+        "uikit_btn_bg_color_selector_red": -14589527
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -12339839,
+        "ic_status_dnd_16dp": -6805207,
+        "ic_status_streaming_16dp": -10930539,
+        "ic_status_invisible_16dp": -8355712,
+        "ic_status_idle_16dp": -350693
+    },
+    "raws": {}
+}
